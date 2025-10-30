@@ -2,6 +2,8 @@
 비건 레시피 추천 및 공유 웹 서비스
 ![image](https://github.com/fooriend/Veganism/assets/57613101/8f111ad1-3729-45d3-9323-cc6c0495e291)
 
+<img width="1792" height="811" alt="image" src="https://github.com/user-attachments/assets/612abf2d-214f-4b83-a580-8ef2999194ed" />
+
 ![image](https://github.com/fooriend/Veganism/assets/57613101/faf6a6c7-f9eb-4c00-989b-34e24f49c936)
 
 ![image](https://github.com/fooriend/Veganism/assets/57613101/fd9108c2-68d4-4c92-b3cb-e359d4ddc7a2)
